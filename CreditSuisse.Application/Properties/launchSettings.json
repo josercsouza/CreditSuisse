@@ -1,8 +1,7 @@
 {
   "profiles": {
     "CreditSuisse.Application": {
-      "commandName": "Project",
-      "commandLineArgs": "d:\\arq1.txt"
+      "commandName": "Project"
     }
   }
 }

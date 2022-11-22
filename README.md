@@ -27,6 +27,7 @@
 ## Observations
 
 - You can test the application using the new category PEP, change some files:
+	- Interfaces\ITrade.cs - uncomment the line 11
 	- Entities\Trade.cs - uncomment the lines 18 and 27
 	- Enums\Precedence.cs - uncomment the line 8  
 	- Entities\PEP.cs - uncomment all lines
